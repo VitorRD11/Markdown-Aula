@@ -1,4 +1,14 @@
 # guia Vitor RD
+
 ###### Configuração de software
 
-&nbsp; Teste de Paragrafo.
+
+
+
+## Linux
+  ### Comandos básicos do Linux
+
+##Windows
+
+
+##Informações complementares
